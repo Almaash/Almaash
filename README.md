@@ -1,4 +1,4 @@
-## Hi there <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/Hi.gif" width="29px">
+## Hi there <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/Hi.gif" width="29px">
 
 # I'm Almaash Alam
 [LinkdeIn!](https://www.linkedin.com/in/kaushal-kant-mishra/)
