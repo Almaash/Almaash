@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-![Kaushal's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=kaushalkantmishra&theme=tokyo-night)
+![Kaushal's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=almaash&theme=tokyo-night)
 
 ## Connect with me:
 
