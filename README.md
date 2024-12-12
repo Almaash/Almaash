@@ -73,4 +73,4 @@
 </div>
 
 [instagram]: https://www.instagram.com/__mahakals__/
-[linkedin]: [https://www.linkedin.com/in/kaushal-kant-mishra/](https://www.linkedin.com/in/almaash-alam-a96a291ab/)
+[linkedin]: [http://linkedin.com/in/almaash-alam-a96a291ab](https://www.linkedin.com/in/almaash-alam-a96a291ab/)
