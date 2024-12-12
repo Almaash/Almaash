@@ -1,6 +1,7 @@
 ## Hi there <img alt="GIF" src="https://github.com/kaushalkantmishra/kaushalkantmishra/blob/main/Assets/Hi.gif" width="29px">
 
-# I'm [Kaushal!](https://www.linkedin.com/in/kaushal-kant-mishra/)
+# I'm Almaash Alam
+[LinkdeIn!](https://www.linkedin.com/in/kaushal-kant-mishra/)
 
 <h3 align="center">I'm a MERN Stack Developer and now learning Next.js and Typescript.</h3>
 
