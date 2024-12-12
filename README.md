@@ -62,10 +62,10 @@
 ## Connect with me:
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/kaushal-kant-mishra/](https://www.linkedin.com/in/almaash-alam-a96a291ab/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="[http://linkedin.com/in/almaash-alam-a96a291ab](https://www.linkedin.com/in/almaash-alam-a96a291ab/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://twitter.com/KaushalkantMis1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>&nbsp;
 <a href="mailto:contact.alamalmaash@gmail.com?subject=Hola%Almaash"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://www.instagram.com/__mahakals__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.instagram.com/sheikhalmaash/profilecard/?igsh=MWpoZTc0a3hlczhiaw=="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
 
 <div align="center">
