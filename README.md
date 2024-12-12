@@ -16,7 +16,7 @@
 
 - <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/wave.gif" width="20px" /> I'm currently _learning_ **Next.js** & **Typescript**
 - <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m looking to collaborate on **OpenSource Projects** & fulltime opportunities as a **fullstack developer**
-- <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/headbang.gif" width="20px" /> All of my projects are available at **[My Github Account](https://github.com/kaushalkantmishra?tab=repositories)**
+- <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/headbang.gif" width="20px" /> All of my projects are available at **[My Github Account](https://github.com/almaash?tab=repositories)**
 - <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [linkedin!][linkedin] or send me a personalized **<a href="mailto:alamalmaash@gmail.com?subject=Hola%20Kaushal">mail</a>**
 - <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/happy.gif" width="20px" /> I try to: Go beyond and push the bounds
 - <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/Rocket.gif" width="20px" /> Fun fact **I love learning new text tech and Building stuff.**
@@ -44,7 +44,7 @@
 <br/>
 <br/>
 <p align="center"><a href="https://github.com/almaash/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kaushal Kant Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=almaash&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Almaash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=almaash&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a></p>
 
 ## :zap: My Github Stats
