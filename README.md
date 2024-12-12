@@ -72,5 +72,5 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
 
-[instagram]: https://www.instagram.com/__mahakals__/
+[instagram]: https://www.instagram.com/sheikhalmaash/profilecard/?igsh=MWpoZTc0a3hlczhiaw==
 [linkedin]: [http://linkedin.com/in/almaash-alam-a96a291ab](https://www.linkedin.com/in/almaash-alam-a96a291ab/)
