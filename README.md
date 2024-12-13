@@ -16,7 +16,7 @@
 - <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/wave.gif" width="20px" /> I'm currently _learning_ **Next.js** & **Typescript**
 - <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m looking to collaborate on **OpenSource Projects** & fulltime opportunities as a **fullstack developer**
 - <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/headbang.gif" width="20px" /> All of my projects are available at **[My Github Account](https://github.com/almaash?tab=repositories)**
-- <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [linkedin!](http://linkedin.com/in/almaash-alam-a96a291ab) or send me a personalized **<a href="mailto:alamalmaash@gmail.com?subject=Hola%20Kaushal">mail</a>**
+- <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [linkedin!](http://linkedin.com/in/almaash-alam-a96a291ab) or send me a personalized **<a href="mailto:alamalmaash@gmail.com?subject=Hola%20Almaash">mail</a>**
 - <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/happy.gif" width="20px" /> I try to: Go beyond and push the bounds
 - <img alt="GIF" src="https://github.com/almaash/almaash/blob/main/Assets/Rocket.gif" width="20px" /> Fun fact **I love learning new text tech and Building stuff.**
 
@@ -62,8 +62,8 @@
 ## Connect with me:
 
 <p align="left">
-<a href="[http://linkedin.com/in/almaash-alam-a96a291ab](https://www.linkedin.com/in/almaash-alam-a96a291ab/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/KaushalkantMis1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>&nbsp;
+<a href="(https://www.linkedin.com/in/almaash-alam-a96a291ab/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<!-- <a href="https://twitter.com/KaushalkantMis1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>&nbsp; -->
 <a href="mailto:contact.alamalmaash@gmail.com?subject=Hola%Almaash"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.instagram.com/sheikhalmaash/profilecard/?igsh=MWpoZTc0a3hlczhiaw=="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
